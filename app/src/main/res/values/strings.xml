@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name" translatable="false">music_store</string>
+    <string name="strings1">Acoustic guitars</string>
+    <string name="strings2">Electric guitars</string>
+    <string name="strings3">Bass guitars</string>
+    <string name="drums1">Acoustic drums</string>
+    <string name="drums2">Electric drums</string>
+    <string name="keys1">Acoustic pianos</string>
+    <string name="keys2">Electronic pianos</string>
+    <string name="keys3">Music keyboards</string>
+    <string name="keys4">Synths</string>
+    <string name="cart">Cart</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="registration">Registration</string>
+    <string name="login">Login</string>
+    <string name="catalog">Сatalog</string>
+    <string name="string">String</string>
+    <string name="drums">Drums</string>
+    <string name="keys">Keys</string>
+    <string name="delete_account">Delete account</string>
+    <string name="log_out">Log out</string>
+    <string name="music_store">Music store</string>
+    <string name="western">Western Guitar</string>
+    <string name="grand">Grand Auditorium</string>
+    <string name="_12_str">12 String </string>
+    <string name="telecaster">Telecaster</string>
+    <string name="stratocaster">Stratocaster</string>
+    <string name="_8_string">8 String</string>
+    <string name="acoustic_bass">Acoustic bass</string>
+    <string name="electric_bass">Electric bass</string>
+    <string name="full_drums">Full Drum Kit</string>
+    <string name="mini_drums">Mini Drum Kit</string>
+    <string name="drum_multipad">Drum Multipad</string>
+    <string name="electronic_drums">Electronic Drums</string>
+    <string name="electronic_piano_1">Electronic piano</string>
+    <string name="electronic_piano_2">Electronic piano2</string>
+    <string name="midi_piano_1">Midi keyboard</string>
+    <string name="midi_piano_2">Midi keyboard 2</string>
+    <string name="analog_synth">Analog synth</string>
+    <string name="digital_synth">Digital synth</string>
+    <string name="piano_1">Piano 1</string>
+    <string name="piano_2">Piano 2</string>
+    <string name="new_order">New music store Order</string>
+    <string name="total_sum">Tolal sum</string>
+</resources>

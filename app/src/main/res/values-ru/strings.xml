@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">music_store</string>
+    <string name="strings1">Акустические гитары</string>
+    <string name="strings2">Электоргитары</string>
+    <string name="strings3">Басс гитары</string>
+    <string name="drums1">Акустические барабаны</string>
+    <string name="drums2">Электронные барабаны</string>
+    <string name="keys1">Пианино</string>
+    <string name="keys2">Электро-пианино</string>
+    <string name="keys3">Midi-клавиатуры</string>
+    <string name="keys4">Синтезаторы</string>
+    <string name="cart">Корзина</string>
+    <string name="email">почта</string>
+    <string name="password">пароль</string>
+    <string name="registration">Регистрация</string>
+    <string name="login">Логин</string>
+    <string name="catalog">Каталог</string>
+    <string name="string">Струнные</string>
+    <string name="drums">Ударные</string>
+    <string name="keys">Клавишные</string>
+    <string name="delete_account">Удалить аккаунт</string>
+    <string name="log_out">Выйти</string>
+    <string name="music_store">Музыкальный магазин</string>
+    <string name="western">Вестерн гитара</string>
+    <string name="grand">Гранд аудиториум</string>
+    <string name="_12_str">12-струнная</string>
+    <string name="telecaster">Телекастер</string>
+    <string name="stratocaster">Стратокастер</string>
+    <string name="_8_string">8-струнная</string>
+    <string name="acoustic_bass">Акустический басс</string>
+    <string name="electric_bass">Електро-басс</string>
+    <string name="full_drums">Полная барабанная установка</string>
+    <string name="mini_drums">Мини барабанная установка</string>
+    <string name="drum_multipad">Барабанный мультипад</string>
+    <string name="electronic_drums">Электронные барабаны</string>
+    <string name="electronic_piano_1">Электронное пианино 1</string>
+    <string name="electronic_piano_2">Электронное пианино 2</string>
+    <string name="midi_piano_1">MIDI пианино 1</string>
+    <string name="midi_piano_2">MIDI пианино 2</string>
+    <string name="analog_synth">Аналоговый синтезатор</string>
+    <string name="digital_synth">Цифрофой синтезатор</string>
+    <string name="piano_1">Пианино</string>
+    <string name="piano_2">Фортепьяно</string>
+    <string name="new_order">Новый заказ</string>
+    <string name="total_sum">Итоговая сумма</string>
+</resources>
